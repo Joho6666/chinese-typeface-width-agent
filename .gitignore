@@ -1,0 +1,5 @@
+.run-config.txt
+.DS_Store
+Thumbs.db
+*.log
+node_modules/
