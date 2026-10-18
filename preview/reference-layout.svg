@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1131" viewBox="0 0 1600 1131" role="img" aria-label="汉字字宽调整目标版式参考（文字尚未轮廓化）">
+<rect width="1600" height="1131" fill="#fff"/>
+<rect x="86" y="67" width="7" height="83" fill="#009EC9"/>
+<text x="116" y="94" font-family="sans-serif" font-size="20" fill="#009EC9" letter-spacing="4">TYPOGRAPHY / FIELD STUDY</text>
+<text x="116" y="169" font-family="sans-serif" font-size="68" font-weight="bold" fill="#19252D">汉字字宽调整</text>
+<text x="119" y="209" font-family="sans-serif" font-size="20" fill="#65737D">通过统一字身网格，观察字形宽度、视觉高度与字面比例</text>
+<line x1="86" x2="1515" y1="244" y2="244" stroke="#AEBEC6"/>
+<text x="86" y="475" font-family="sans-serif" font-size="35" font-weight="bold" fill="#19252D">大字面</text>
+<text x="88" y="515" font-family="sans-serif" font-size="17" fill="#65737D">LARGE CHARACTER FACE</text>
+<text x="88" y="612" font-family="sans-serif" font-size="36" fill="#19252D">约 89%</text>
+<g fill="#F6FAFC" stroke="#CBD8DE" stroke-width="2"><rect x="340" y="360" width="245" height="245"/><rect x="630" y="360" width="245" height="245"/><rect x="920" y="360" width="245" height="245"/><rect x="1210" y="360" width="245" height="245"/></g>
+<g font-family="Noto Sans CJK SC,Source Han Sans SC,Microsoft Yahei,sans-serif" font-size="218" font-weight="900" fill="#19252D" text-anchor="middle"><text x="462" y="576">科</text><text x="752" y="576">技</text><text x="1042" y="576">创</text><text x="1332" y="576">新</text></g>
+<line x1="86" x2="1515" y1="692" y2="692" stroke="#D9E3E8"/>
+<text x="86" y="865" font-family="sans-serif" font-size="35" font-weight="bold" fill="#19252D">小字面</text>
+<text x="88" y="905" font-family="sans-serif" font-size="17" fill="#65737D">SMALL CHARACTER FACE</text>
+<text x="88" y="1002" font-family="sans-serif" font-size="36" fill="#19252D">约 72%</text>
+<g fill="#F6FAFC" stroke="#CBD8DE" stroke-width="2"><rect x="340" y="750" width="245" height="245"/><rect x="630" y="750" width="245" height="245"/><rect x="920" y="750" width="245" height="245"/><rect x="1210" y="750" width="245" height="245"/></g>
+<g font-family="Noto Sans CJK SC,Source Han Sans SC,Microsoft Yahei,sans-serif" font-size="178" font-weight="900" fill="#19252D" text-anchor="middle"><text x="462" y="949">梦</text><text x="752" y="949">想</text><text x="1042" y="949">启</text><text x="1332" y="949">航</text></g>
+<line x1="86" x2="1515" y1="1043" y2="1043" stroke="#AEBEC6"/>
+<text x="87" y="1085" font-family="sans-serif" font-size="18" fill="#19252D">汉字字面比例与视觉统一练习</text>
+</svg>
